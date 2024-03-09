@@ -17,7 +17,7 @@ JavaScript
 # Setup Instructions
 Clone the repository to your local machine:
 
-git clone 
+git clone git@github.com:RamchennaB/Weather-Application-Using-JavaScript.git
 
 Open the project directory in your code editor.
 
