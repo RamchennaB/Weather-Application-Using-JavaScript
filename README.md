@@ -27,3 +27,4 @@ Replace the placeholder API key in the JavaScript file (script.js) with your act
 
 Open the index.html file in a web browser or host the app on a web server to use it.
 
+# Thank You
